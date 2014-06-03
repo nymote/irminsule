@@ -21,7 +21,7 @@ hosts using MPTCP-style congestion control.
 ### Compile
 
 ```
-opam install jsonm uri ocamlgraph cohttp cmdliner obuild lwt
+opam install jsonm uri ocamlgraph cohttp cmdliner obuild lwt cstruct cryptokit
 make
 ```
 
